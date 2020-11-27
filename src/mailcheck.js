@@ -26,7 +26,7 @@ var Mailcheck = {
     'sbcglobal.net', 'aol.com', 'me.com', 'btinternet.com',
     'charter.net', 'shaw.ca'],
 
-  defaultSecondLevelDomains: ["yahoo", "hotmail", "mail", "live", "outlook", "gmx"],
+  defaultSecondLevelDomains: ["yahoo", "hotmail", "mail", "live", "outlook", "gmx", "rediffmail"],
 
   defaultTopLevelDomains: ["com", "com.au", "com.tw", "ca", "co.nz", "co.uk", "de",
     "fr", "it", "ru", "net", "org", "edu", "gov", "jp", "nl", "kr", "se", "eu",
